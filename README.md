@@ -4,6 +4,7 @@ Project Submission for Syntax Error 2023
 <img width="50%" height="50%" alt="image" src="https://user-images.githubusercontent.com/99196803/212496757-f7887fe5-ddf9-4013-acc9-9b629b3a17a2.png">
 
 ## Contents
+* Set Up
 * What is Sceptique
 * How to Use Sceptique
   1. Out Truth
@@ -11,6 +12,9 @@ Project Submission for Syntax Error 2023
   3. Press N Pulse
 * Future Scopes
 * Contributors
+
+### Set Up
+Clone the Repository and then in the project directory run the CLI command    `python manage.py runserver`
 
 ### What is Sceptique?
 
