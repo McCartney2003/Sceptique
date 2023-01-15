@@ -18,7 +18,9 @@ Clone the Repository and then in the project directory run the CLI command    `p
 
 ### Languages/Framework and their version
 Python 3.10+
+
 BootStrap
+
 Django
 
 ### What is Sceptique?
