@@ -16,6 +16,11 @@ Project Submission for Syntax Error 2023
 ### Set Up
 Clone the Repository and then in the project directory run the CLI command    `python manage.py runserver`
 
+### Languages/Framework and their version
+Python 3.10+
+BootStrap
+Django
+
 ### What is Sceptique?
 
 Sceptique is a web app aimed at easing the process of detecting fake news, Summarizing large documents and finding out the online public image related to a brand or celebrity name.
